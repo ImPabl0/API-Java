@@ -1,10 +1,10 @@
-package com.ansoftware.api.ansoftwareapi;
+package com.asnsoftware.api.asnsoftwareapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AnsoftwareApiApplicationTests {
+class AsnsoftwareApiApplicationTests {
 
 	@Test
 	void contextLoads() {
