@@ -1,7 +1,8 @@
 # API Java
 Uma API feita em java para registro de clientes no banco de dados MySQL
 ## Setup
-
+Você precisará do JDK, database hospedada()
+````
 - [Como criar uma REST API com Spring Boot (tutorial passo a passo)](https://www.youtube.com/watch?v=9GWK9A79tEc)
 - [Java: variáveis e constantes](https://www.devmedia.com.br/java-variaveis-e-constantes/38311)
 - [How to Build a Spring Boot REST API with Java?](https://hevodata.com/learn/spring-boot-rest-api/)
