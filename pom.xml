@@ -13,9 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>asnsoftware-api</name>
 	<description>API para registro de clientes</description>
-	<properties>
-		<java.version>16</java.version>
-	</properties>
+	
 	<dependencies>
 
 		<dependency>
