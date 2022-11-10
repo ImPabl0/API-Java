@@ -20,12 +20,7 @@ CREATE TABLE `cliente` (
 
 
 Após isso extraia o projeto, abra a pasta onde você extraiu através do CMD e digite ``mvn spring-boot:run``
-## Referências
-- [Como criar uma REST API com Spring Boot (tutorial passo a passo)](https://www.youtube.com/watch?v=9GWK9A79tEc)
-- [Java: variáveis e constantes](https://www.devmedia.com.br/java-variaveis-e-constantes/38311)
-- [How to Build a Spring Boot REST API with Java?](https://hevodata.com/learn/spring-boot-rest-api/)
-- [Using Spring @ResponseStatus to Set HTTP Status Code](https://www.baeldung.com/spring-response-status)
-- [Hashing passwords in Spring applications](https://nullbeans.com/hashing-passwords-in-spring-applications/)
+
 ## Documentação da API
 
 #### Retorna nulo com o código 200 em caso de sucesso
@@ -43,3 +38,9 @@ Após isso extraia o projeto, abra a pasta onde você extraiu através do CMD e 
 | `senha`|`string`|**Obrigatório** A senha do cliente|
 
 
+## Referências
+- [Como criar uma REST API com Spring Boot (tutorial passo a passo)](https://www.youtube.com/watch?v=9GWK9A79tEc)
+- [Java: variáveis e constantes](https://www.devmedia.com.br/java-variaveis-e-constantes/38311)
+- [How to Build a Spring Boot REST API with Java?](https://hevodata.com/learn/spring-boot-rest-api/)
+- [Using Spring @ResponseStatus to Set HTTP Status Code](https://www.baeldung.com/spring-response-status)
+- [Hashing passwords in Spring applications](https://nullbeans.com/hashing-passwords-in-spring-applications/)
